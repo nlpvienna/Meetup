@@ -4,7 +4,7 @@
 
 These meetups are intended for practitioners and researchers in the field of Natural Language Processing. Where we will present and discuss NLP related topics and get updated with the recent news in the field.
 
-Big thanks to our sponsor UpCloud.com - use the voucher 'euro50' to receive 50 euros discount with UpCloud.com.
+Big thanks to our sponsor **UpCloud.com** - use the voucher **'euro50'** to receive 50 euros discount with UpCloud.com.
 
 Schedule:
 
