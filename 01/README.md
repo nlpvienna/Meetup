@@ -19,7 +19,9 @@ Short overview of recent NLP News and Trendy Topics by:
 * **Andrea Madunic** :: Statistician at Children's Cancer Research Institute <br>
 Classification of law-related text using ULMFiT & BERT
 * **Daniel T. Soukup** :: Postdoctoral Researcher at University of Vienna <br>
-Getting meaningful insights by extracting geo-location info from text 
+Getting meaningful insights by extracting geo-location info from text.
+[Code](https://github.com/danieltsoukup/data4good---GruenStattGrau) [Slides](https://github.com/danieltsoukup/data4good---GruenStattGrau/blob/master/notebooks/2.0_RegDan_locationdetection.slides.html)
+
 
 20:00 - Refreshments + Networking
 
