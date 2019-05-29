@@ -14,6 +14,7 @@ Schedule:
 Short overview of recent NLP News and Trendy Topics by:
 * **Adrian M.P. Brasoveanu** :: Researcher at MODUL Technology
 * **Guilherme Rodrigues** :: Software Engineer at Semantic Web Company (SWC)
+* [Slides](https://github.com/nlpvienna/Meetup/blob/master/01/nlpnewsandtrends.pdf)
 
 19:30 - two talks:
 * **Andrea Madunic** :: Statistician at Children's Cancer Research Institute <br>
