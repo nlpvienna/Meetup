@@ -18,7 +18,7 @@ Short overview of recent NLP News and Trendy Topics by:
 
 19:30 - two talks:
 * [**Andrea Madunic**](https://www.linkedin.com/in/andrea-madunic-660858174/) :: Statistician at Children's Cancer Research Institute <br>
-Classification of law-related text using ULMFiT & BERT. [Slides](https://github.com/nlpvienna/Meetup/blob/master/01/Andrea%20Madunic%20-%20Classification%20of%20law%20related%20texts.pdf)
+Classification of law-related text using ULMFiT & BERT. [Slides](https://github.com/nlpvienna/Meetup/blob/master/01/Andrea%20Madunic%20-%20Classification%20of%20law%20related%20texts.pdf) [Code](https://github.com/nlpvienna/Meetup/upload/master/01/code)
 * [**Daniel T. Soukup**](https://www.linkedin.com/in/danieltsoukup/) :: Postdoctoral Researcher at University of Vienna <br>
 Getting meaningful insights by extracting geo-location info from text. Click here for his [Code](https://github.com/danieltsoukup/data4good---GruenStattGrau) and [Slides](https://github.com/danieltsoukup/data4good---GruenStattGrau/blob/master/notebooks/2.0_RegDan_locationdetection.slides.html)
 
