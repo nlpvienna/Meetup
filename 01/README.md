@@ -12,14 +12,14 @@ Schedule:
 
 19:00 - NLP News & Trends:
 Short overview of recent NLP News and Trendy Topics by:
-* **Adrian M.P. Brasoveanu** :: Researcher at MODUL Technology
-* **Guilherme Rodrigues** :: Software Engineer at Semantic Web Company (SWC)
+* [**Adrian M.P. Brasoveanu**](https://www.linkedin.com/in/adrianbrasoveanu/) :: Researcher at MODUL Technology
+* [**Guilherme Rodrigues**](https://www.linkedin.com/in/guilhermecsrodrigues/) :: Software Engineer at Semantic Web Company (SWC)
 * [Slides](https://github.com/nlpvienna/Meetup/blob/master/01/nlpnewsandtrends.pdf)
 
 19:30 - two talks:
-* **Andrea Madunic** :: Statistician at Children's Cancer Research Institute <br>
+* [**Andrea Madunic**](https://www.linkedin.com/in/andrea-madunic-660858174/) :: Statistician at Children's Cancer Research Institute <br>
 Classification of law-related text using ULMFiT & BERT. [Slides](https://github.com/nlpvienna/Meetup/blob/master/01/Andrea%20Madunic%20-%20Classification%20of%20law%20related%20texts.pdf)
-* **Daniel T. Soukup** :: Postdoctoral Researcher at University of Vienna <br>
+* [**Daniel T. Soukup**](https://www.linkedin.com/in/danieltsoukup/) :: Postdoctoral Researcher at University of Vienna <br>
 Getting meaningful insights by extracting geo-location info from text. Click here for his [Code](https://github.com/danieltsoukup/data4good---GruenStattGrau) and [Slides](https://github.com/danieltsoukup/data4good---GruenStattGrau/blob/master/notebooks/2.0_RegDan_locationdetection.slides.html)
 
 
