@@ -2,7 +2,7 @@
 
 ## Slides, code and resources
 
-![Meetup](./images/NLP Meetup Vienna 20190527.jpg "First Meetup")
+![Meetup](./images/NLP-Meetup-Vienna-20190527.jpg "First Meetup")
 
 Welcome to the official github of NLP Vienna Meetup.
 
