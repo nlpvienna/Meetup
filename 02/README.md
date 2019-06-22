@@ -13,7 +13,8 @@ And thanks to [enliteAI](https://www.enlite.ai/) and [ONDEWO](https://www.ondewo
 18:30 - Gathering
 
 19:00 - Sentiment Analysis:
-* [**Stefan Gindl**](https://www.linkedin.com/in/stefan-gindl-69871173/) :: Freelancer Data Scientist & Software Developer | Assistant Professor in Modul University Vienna <br> [Slides](https://github.com/nlpvienna/Meetup/blob/master/02/Sentiment_Analysis.pdf)
+* [**Stefan Gindl**](https://www.linkedin.com/in/stefan-gindl-69871173/) :: Freelancer Data Scientist & Software Developer | Assistant Professor in Modul University Vienna <br> [Slides](https://github.com/nlpvienna/Meetup/blob/master/02/Sentiment_Analysis.pdf)<br>
+[Code Demonstration - Simple Twitter Sentiment Monitor](https://github.com/nlpvienna/Meetup/blob/master/02/Simple_Twitter_Sentiment_Monitor.ipynb)
 
 19:30 - NLP News & Trends:
 Short overview of recent NLP News and Trendy Topics by:
