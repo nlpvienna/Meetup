@@ -17,3 +17,4 @@ In this repository you may find meetup-related files, presentations, code snippe
 | #  | Date       | Venue                              | Topic                  | Content                         |  Photos | Meetup.com |
 |:--:|:----------:|:----------------------------------:|:----------------------:|:----------------------------:|:------:|:----------:|
 | 1  | 2019-05-28 | ONDEWO                           | Text Classification & Topic Modeling | [more](./01/)  |       | [link](https://www.meetup.com/nlp-vienna/events/261452867/)
+| 1  | 2019-06-19 | PwC Austria                      | Sentiment Analysis | [more](./02/)  |       | [link](https://www.meetup.com/nlp-vienna/events/261668106/)
