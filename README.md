@@ -11,6 +11,8 @@ In this repository you may find meetup-related files, presentations, code snippe
 * [Join the community on slack](https://join.slack.com/t/nlp-at/shared_invite/enQtNjMxNTgzOTkyNzc0LWRhODU0YjA2M2FjYjdkMGFiMzZiMDU5OGFiZDg1NmU1NmY4Y2MxZjkzMDg3NGRjYmRjNTY2NmE5ZTM3NzYwM2I) to exchange ideas, assist each other and discuss natural language processing news and issues.
 * Follow us on Twitter: [@NlpVienna](https://twitter.com/NlpVienna)
 
+## Sponsors
+We are thankful to our sponsors: [ONDEWO](https://www.ondewo.com/) and [enliteAI](https://www.enlite.ai/) for the support!
 
 ## Meetups
 
