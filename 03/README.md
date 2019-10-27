@@ -1,10 +1,10 @@
-# Meetup #2: Transcribing podcasts with German dialect
+# Meetup #3: Transcribing podcasts with German dialect
 
 ## Welcome to the "NLP Meetup Vienna" 3rd meetup
 
 These meetups are intended for practitioners and researchers in the field of Natural Language Processing. Where we will present and discuss NLP related topics and get updated with the recent news in the field.
 
-Big thanks to our supporter [**ONDEWO**](https://www.ondewo.com/) for the hosting and drinks!
+Big thanks to our supporter [**ONDEWO**](https://www.ondewo.com/) for hosting and the drinks!
 
 And thanks to [enliteAI](https://www.enlite.ai/) and [ONDEWO](https://www.ondewo.com/) for organisational support.
 
@@ -18,7 +18,7 @@ Short overview of recent NLP News and Trendy Topics by:
 
 19:30 - Transcribing podcasts with German dialect by:
 * [**Alexander Baratsits**](https://www.linkedin.com/in/alexander-baratsits-098537175/) :: Legal Counsel at IST Austria
-* **Lukas Strasser** <br> [Slides](https://github.com/nlpvienna/Meetup/blob/master/03/OpenTranscript_BaratsitsStrasser.pdf)
+* **Lukas Strasser** :: Linguist <br> [Slides](https://github.com/nlpvienna/Meetup/blob/master/03/OpenTranscript_BaratsitsStrasser.pdf)
 
 
 20:00 - Refreshments + Networking
