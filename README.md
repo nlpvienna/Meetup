@@ -20,3 +20,4 @@ We are thankful to our sponsors: [ONDEWO](https://www.ondewo.com/) and [enliteAI
 |:--:|:----------:|:----------------------------------:|:----------------------:|:----------------------------:|:------:|:----------:|
 | 1  | 2019-05-28 | ONDEWO                           | Text Classification & Topic Modeling | [more](./01/)  |       | [link](https://www.meetup.com/nlp-vienna/events/261452867/)
 | 2  | 2019-06-19 | PwC Austria                      | Sentiment Analysis | [more](./02/)  |       | [link](https://www.meetup.com/nlp-vienna/events/261668106/)
+| 3  | 2019-10-22 | ONDEWO                           | Transcribing podcasts with German dialect | [more](./03/)  |       | [link](https://www.meetup.com/de-DE/nlp-vienna/events/264892888/)
